@@ -357,4 +357,4 @@ Sumber: ${window.location.href}`;
 	catatan = "";
 }
 
-console.log("saya edit 1")
+console.log("saya edit 1");
