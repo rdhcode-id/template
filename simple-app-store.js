@@ -2,7 +2,12 @@
 // Data Toko
 
 // Data Product
-
+const getProduct = {
+	img: document.querySelectorAll(".productImage"),
+	nme: document.querySelectorAll(".productName"),
+	des: document.querySelectorAll(".productDescription"),
+	prc: document.querySelectorAll(".productPrice"),
+};
 
 function getTextContent(data) {
 	const textContent = {};
